@@ -35,6 +35,11 @@ is tagged correctly.
 * [ubuntu](/oses/ubuntu)
   * `ghcr.io/parkervcp/yolks:ubuntu`
 
+### [Apps](/apps)
+
+* [`uptimekuma`](/apps/uptimekuma)
+  * `ghcr.io/parkervcp/yolks:apps_uptimekuma`
+
 ### [Bot](/bot)
 
 * [`bastion`](/bot/bastion)
@@ -82,6 +87,19 @@ is tagged correctly.
   * `ghcr.io/parkervcp/yolks:dotnet_6`
 * [`dotnet7.0`](/dotnet/7)
   * `ghcr.io/parkervcp/yolks:dotnet_7`
+
+### [Elixir](/elixir)
+
+* [`elixir 1.12`](/elixir/1.12)
+  * `ghcr.io/parkervcp/yolks:elixir_1.12`
+* [`elixir 1.13`](/elixir/1.13)
+  * `ghcr.io/parkervcp/yolks:elixir_1.13`
+* [`elixir 1.14`](/elixir/1.14)
+  * `ghcr.io/parkervcp/yolks:elixir_1.14`
+* [`elixir 1.15`](/elixir/1.12)
+  * `ghcr.io/parkervcp/yolks:elixir_1.15`
+* [`elixir latest`](/elixir/latest)
+  * `ghcr.io/parkervcp/yolks:elixir_latest`
 
 ### [Erlang](/erlang)
 
